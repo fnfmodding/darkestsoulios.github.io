@@ -1,0 +1,29 @@
+{
+  "NewSave": "Yes",
+  "Saved": "[SaveDate]",
+  "Ver": "[GameVersion]",
+  "Save": {
+  "Preview": "[PreviewImage]",
+  "Data": "[SomeData]",
+  "DataBlank1": "[SomeData1]",
+  "Rings": "[PlayerRings]",
+  "Score": "[PlayerScore]",
+  "Lives": "[PlayerLives]",
+  "Continue": "[PlayerContinueCounter]",
+  "PlayerX": "[PlayerPosX]",
+  "PlayerY": "[PlayerPosY]",
+  "Layout": "[LayoutName]",
+  "Zone": "[ZoneName]",
+  "Character": "[CharacterNumber]",
+  "C2SAVEDATA": "[C2SAVE]"
+  },
+  "Emeralds": {
+  "Green": "[GreenCheck]",
+  "Cyan": "[CyanCheck]",
+  "Blue": "[BlueCheck]",
+  "Red": "[RedCheck]",
+  "Purple": "[PurpleCheck]",
+  "Yellow": "[YellowCheck]",
+  "Gray": "[GrayCheck]"
+    }
+  }
