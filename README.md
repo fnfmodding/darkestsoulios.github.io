@@ -1,6 +1,6 @@
 # darkestsouls.github.io
 RELEASE
-https://fnfmodding.github.io/darkestsouls.github.io/
+https://fnfmodding.github.io/darkestsoulios.github.io/
 
 CREDIT
 
